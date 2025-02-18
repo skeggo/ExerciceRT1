@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+li {
+  cursor: pointer;
+  margin-bottom: 5px;
+  padding: 5px;
+  width: 150px;
+  border: 1px solid #ccc;
+  transition: background-color 0.3s;
+}
